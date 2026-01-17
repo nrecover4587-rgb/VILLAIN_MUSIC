@@ -30,7 +30,7 @@ async def start(_, msg):
         ],
         [
           InlineKeyboardButton("𝗛ᴇʟᴘ", url="https://t.me/codexempire"),
-          InlineKeyboardButton("ꪜ 𝛊 ɭ ɭ ᧘ 𝛊 𝛈", url="https://t.me/PerfectseIler"),
+          InlineKeyboardButton("perfect", url="https://t.me/PerfectseIler"),
           ],
                [
                 InlineKeyboardButton("˹code ꭙ empire˼", url=f"https://t.me/codexempire"),
