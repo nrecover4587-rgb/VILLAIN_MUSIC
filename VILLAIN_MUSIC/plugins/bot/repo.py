@@ -39,7 +39,7 @@ async def start(_, msg):
 [
 InlineKeyboardButton("𝗠ᴀɪɴ 𝗕ᴏᴛ", url=f"https://t.me/mafiyamusic_bot"),
 
-        ]]
+        
     
     reply_markup = InlineKeyboardMarkup(buttons)
     
