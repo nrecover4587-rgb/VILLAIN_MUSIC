@@ -41,11 +41,11 @@ async def init():
     await userbot.start()
     await VILLAIN.start()
     await VILLAIN.decorators()
-    LOGGER("VILLAIN_MUSIC").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 𝗩𝗜𝗟𝗟𝗔𝗜𝗡♨️\n╚═════ஜ۩۞۩ஜ════╝")
+    LOGGER("VILLAIN_MUSIC").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 PERFECT♨️\n╚═════ஜ۩۞۩ஜ════╝")
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("VILLAIN_MUSIC").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 𝗩𝗜𝗟𝗟𝗔𝗜𝗡♨️\n╚═════ஜ۩۞۩ஜ════╝")
+    LOGGER("VILLAIN_MUSIC").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 PERFECT♨️\n╚═════ஜ۩۞۩ஜ════╝")
 
 
 if __name__ == "__main__":
