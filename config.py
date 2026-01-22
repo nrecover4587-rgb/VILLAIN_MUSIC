@@ -13,9 +13,9 @@ API_HASH = getenv("API_HASH")
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","iamakki001")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Thakurrr_366")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME","radha_music_bot")
+BOT_USERNAME = getenv("BOT_USERNAME","Sarkar144_bot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME")
 # ---------------------------------------------------------
@@ -27,14 +27,14 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID",-1003556185955 ))
+LOGGER_ID = int(getenv("LOGGER_ID",-1003000277703 ))
 
 # Get this value from @PURVI_HELP_BOT on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 8364016757))
+OWNER_ID = int(getenv("OWNER_ID",7018521436 ))
 
 
 # make your bots privacy from telegra.ph and put your url here 
-PRIVACY_LINK = getenv("PRIVACY_LINK", "https://graph.org/PRIVACY-FOR--09-18")
+PRIVACY_LINK = getenv("PRIVACY_LINK", "https://graph.org/PRIVACY-FOR--09-20")
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -51,8 +51,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/bot_x_worlds")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/bot_x_worlds")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BOTxBOOSTER")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/BOTxBOOSTER")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
