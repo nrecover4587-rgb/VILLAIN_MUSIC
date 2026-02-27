@@ -56,7 +56,7 @@ async def get_thumb(videoid):
         except:
             font = ImageFont.load_default()
 
-        title = "Now Playing on Music Bot"
+        title = "perfect music"
         w = draw.textlength(title, font=font)
 
         draw.text(
