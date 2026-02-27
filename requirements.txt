@@ -26,6 +26,7 @@ gpytranslate
 MukeshAPI
 googlesearch-python
 youtube-search-python==1.6.6
+youtube-search
 spotipy
 telegraph
 speedtest-cli
