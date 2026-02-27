@@ -13,7 +13,7 @@ start_txt = """
  
 ✰ 𝗣ᴀʜʟᴇ 𝗣ᴀᴘᴀ 𝗕ᴏʟ 𝗥ᴇᴘᴏ 𝗢ᴡɴᴇʀ ᴋᴏ 
 
-✰  @PerfectseIler
+✰  @MrMental001
  
 ✰ 𝗥ᴜɴ 24x7 𝗟ᴀɢ 𝗙ʀᴇᴇ 𝗪ɪᴛʜᴏᴜᴛ 𝗦ᴛᴏᴘ
  
@@ -30,7 +30,7 @@ async def start(_, msg):
         ],
         [
           InlineKeyboardButton("𝗛ᴇʟᴘ", url="https://t.me/codexempire"),
-          InlineKeyboardButton("perfect", url="https://t.me/PerfectseIler"),
+          InlineKeyboardButton("perfect", url="https://t.me/MrMental001"),
           ],
                [
                 InlineKeyboardButton("˹code ꭙ empire˼", url=f"https://t.me/codexempire"),
