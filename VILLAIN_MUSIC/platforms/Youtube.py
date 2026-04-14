@@ -10,7 +10,7 @@ from VILLAIN_MUSIC.utils.formatters import time_to_seconds
 import aiohttp
 from VILLAIN_MUSIC import LOGGER
 
-API_URL = "https://shrutibots.site"
+API_URL = "http://key.shrutibots.site"
 DOWNLOAD_DIR = "downloads"
 
 
